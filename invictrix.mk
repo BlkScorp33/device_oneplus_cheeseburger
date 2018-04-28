@@ -45,3 +45,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 #ro.invictrix.maintainer := "BlackScorpion3"
 
 TARGET_VENDOR := oneplus
+
+HAS_DEVICE_CAM := true
